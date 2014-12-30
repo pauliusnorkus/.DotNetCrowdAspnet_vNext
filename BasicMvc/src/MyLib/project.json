@@ -1,0 +1,7 @@
+﻿{
+    "version": "1.0",
+	"name": "MyLib",
+    "dependencies": {
+        "Microsoft.AspNet.Mvc.TagHelpers": "6.0.0.0-rc1-12188"
+    }
+}
